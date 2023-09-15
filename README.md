@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Swati Kharote</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **react,node,node,express,monogodb**
+- 🌱 I’m currently studying **in Masai School**
 
 - 👨‍💻 All of my projects are available at [https://swatikharote.github.io/](https://swatikharote.github.io/)
 
 - 💬 Ask me about **react,redux,node,express,monogodb**
 
-- 📫 How to reach me **swatikharote31@gmail.com**
+- 📫 How to reach me **kharoteswati31@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1_erKHt2ngH_wab33wBJWJ7uSzvJ-ioG8/view?usp=share_link](https://drive.google.com/file/d/1_erKHt2ngH_wab33wBJWJ7uSzvJ-ioG8/view?usp=share_link)
 
