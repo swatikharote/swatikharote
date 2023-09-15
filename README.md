@@ -14,6 +14,7 @@
 - ⚡ Fun fact **I think I am too much curious about things.**
 
 <h3 align="left">Connect with me:</h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mayank-kiran-khobragade/](https://www.linkedin.com/in/swati-kharote-b094951b9/))
 <p align="left">
 <a href="https://www.linkedin.com/in/swati-kharote-b094951b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swati kharote" height="30" width="40" /></a>
 </p>
