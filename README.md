@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I think I am too much curious about things.**
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/swati-kharote-b094951b9/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swati-kharote-b094951b9/) 
 
 
 # 💻 Tech Stack:
